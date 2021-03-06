@@ -1,0 +1,16 @@
+{
+    "name": "ng/ng-php-mvc-core",
+    "authors": [
+        {
+            "name": "Nguidjo",
+            "email": "jonathanguidmo90@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ng\\core\\": "./"
+        }
+    },
+    "require": {},
+    "description": ""
+}
